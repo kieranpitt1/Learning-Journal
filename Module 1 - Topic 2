@@ -23,3 +23,17 @@ Doesn't have the currency symbol added, showing as a number format.
 
 How would you validate the 'EmployeeNumber' column and what needs paying special attention to?
 To validate the EmployeeNumber column, treat it as an EmployeeID field, not as a normal number for analysis.
+
+
+KSB's Covered-
+Validated the HR Employee Attrition dataset by reviewing key columns, accepted values, missing data rules and column meanings. Identified data quality issues including constant fields, ambiguous values and identifier columns that should not be used for analysis. 
+This helped ensure the dataset was suitable for further analysis and reporting.
+
+S6- Systematically clean, validate, and describe data at all stages of extract, transform, load (ETL). - Cleaned, validated and described data by checking columns including EmployeeNumber, JobStatisfaction, Over18 and OverTime.
+K4- Frameworks for data quality, covering dimensions such as accuracy, completeness, consistency, timeliness, and accessibility. - Applying data quality dimensions such as accuracy, completeness, consistency, uniqueness and validity.
+K5- The inherent risks of data such as incomplete data, ethical data sources and how to ensure data quality. - Identified risks in the data, such as ambiguous meanings, low-value columns, constant fields and potential misinterpretation.
+S26- Identify data quality metrics and track them to ensure the quality, accuracy and reliabilty of the data product. - Defined data quality metrics, for example accepted values, missing value rules, uniqueness checks and column descriptions.
+K16-  Principles of data, including open and public data, administrative data, and research data including the value of external data sources that can be used to enrich internal data. Examples of how business use direct data acquisition to support ot arguement business operations. 
+Working with data principles and understanding how fields should be interpreted before analysis.
+K23- How to undertake analysis and root cause investigation - Investigated possible data issues and identifying the cause, such as why Over18 adds little value or why YearsSinceLastPromotion = 0 is ambiguous.
+B3- Quality focus that promotes continuous improvement utilising peer review techniques, innovation and creativity to the data system development process to improve processes and address business challenges. - You are showing a quality-focused approach by checking the dataset before using it for analysis.
