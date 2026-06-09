@@ -1,0 +1,25 @@
+Try to find the description of the dataset inside the croissant (search for “description”).
+Description: Archive containing all the contents of the IBM HR Analytics Employee Attrition & Performance Dataset.
+
+md5: (r:md5 = message-direct algorithm 5)
+
+Boolean Example: isAccessibleForFree: true
+
+Why does using compression aid sustainability and net-zero goals?
+Using compression helps sustainability, and net-zero goals because it reduces the amount of data that needs to be stored, transfered and processed.
+If a website is compressed from 5mb to 500kb, that is much less data for servers, networks and user devices to handle. Across thousands of product images and thousands of visitors, that saving becomes significant.
+
+What is the possible issue in identifying the meaning of the column "Years Since Last Promotion", especially when interpreting the value of '0' in one of the fields?
+The issue could be it's not fully clear without a data dictionary especially when the value is 0.
+
+The main issue is ambiguity, before using this column in analysis, you would ideally need to confirm what '0' means in the dataset documentation.
+Ambiguity - The quality of being open to more than one interpretation, inexactness.
+
+Compare the contents of the columns 'Over 18' and 'Overtime', what data quality issue can you identify?
+Over 18 has Y, Over Time has Yes or No. The issue is mainly poor, ambiguous column naming and low-value data. The issue is mainly poor, ambiguous column naming and low-value data.
+
+What are some possible issues with the data quality of MonthlyIncome and MonthlyRate?
+Doesn't have the currency symbol added, showing as a number format.
+
+How would you validate the 'EmployeeNumber' column and what needs paying special attention to?
+To validate the EmployeeNumber column, treat it as an EmployeeID field, not as a normal number for analysis.
