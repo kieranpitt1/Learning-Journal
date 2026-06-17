@@ -1,1 +1,111 @@
+Championing a data-driven culture
+1. Identify key stakeholders
+• Ie business leaders, IT, data analysts, end-users
 
+To champion a data-driven culture, the first steps is to identify the people who create, manage, analyse, and use data across the organisation.
+
+The key stakeholders include -
+
+Business leaders and Senior management - Sets the overall direction, approves investment and to encourage teams in using data whilst making decisions.
+
+IT & System teams - Maintain the systems, databases, security, and infrastructure needed to collect and access reliable data.
+
+Data analysts and data engineers – Prepare, validate, analyse, and to present data so that it can be understood and used effectively.
+
+Department managers - Translate objectives into measurable targets and by ensuring data is used within their teams.
+
+End Users - To use reports, dashboards, spreadsheets and operational systems in their day-to-day roles.
+
+Data Owners and data stewards - Take responsibility for the accuracy, quality and the appropriate use of specific datasets.
+
+External stakeholders – Suppliers, customers, developers, or service providers provide data or rely on information that is produced by the organisation.
+
+At Co-ordSport, this could include senior managemenent, the data and IT teams, purchasing, sales, marketing, warehouse staff, customer service.
+web developers, and employees who uses MAM Autopart, Phocas, website reports.
+
+Involving those groups help to ensure that data initiatives addresses genuine business needs rather than being developed in isolation.
+
+2. Analyse effective stakeholder collaboration strategies
+
+Effective stakeholder collaboration is essential whilst promoting a data-driven culture because different departments have different priorities, 
+responsibilities, and levels of data knowledge. Collaboration ensure that data initiatives are practical, supported by the business, and is capable of 
+delivering measurable value.
+
+• Align data initiatives with business objectives
+
+Data initiatives should be directly linked to the organisation's wider business objectives. Rather than collecting or analysing data without a clear
+purpose, stakeholders should agree on the specific business problems that the initative is intended to solve.
+
+For example, at Co-ordSport, a data initiative might support objectives such as:
+
+• Improving the accuracy and completeness of product information
+• Reducing the time required to upload supplier data
+• Increasing website sales and conversion rates
+• To improve stock availability and purchasing decisions
+• Reduce duplicate products, incorrect fitment data, and website errors
+• To give sales and management teams fast access to reliable reports
+
+Business leaders should define the strategic goals, while data analysts, IT Teams, department managers, and end-users help determine what data is required and how
+it should be presented. This collaborative approach ensure that technical work supports genuine operational needs.
+
+For example, when developing a new product database to replace existing systems, senior management might focus on cost savings and efficiency. The data team
+may focus on data quality, validation, and structure, while sales and purchasing teams might require quick access to product descriptions, prices, stock-take,
+images, and vehicle applications. Bringing these requirements together helps ensure that the final system benefits the whole organisation.
+
+Stakeholder collaboration can be supported through regular meetings, progress updates, demonstrations, feedback sessions, and clearly assigned
+resonsibilities. Communication should be adapted to the stakeholders. Senior management may require a summary of costs, risks, and expected
+benefits, where as technical teams might require detailed specifications, data mappings, and validation rules.
+
+
+• Stakeholder engagement plan
+
+A stakeholder enagement plan should document how each stakeholder would be involved throughout the data initiative. This should include their roles, level
+of influence, information requirements, communication methods, frequency of communication and responsibilities.
+
+Stakeholder - Senior Management
+Interest or Responsibility - Business objectives, costs, risks, and return of investment
+Influence - High
+Engagement Method - Progress reports, review meetings and project summaries
+Communication Frequency - Monthly or at key milestones
+
+Stakeholder - Data Team
+Interest or Responsibility - Data collection, cleansing, validation, analysis and reporting
+Influence - High
+Engagement Method - Working meetings, shared documents and task tracking
+Communication Frequency - Daily or weekly
+
+Stakeholder - IT & Developers
+Interest or Responsibility - Systems, databases, integrations, access and security
+Influence - High
+Engagement Method - Technical meetings, specifications, and testing sessions
+Communication Frequency - Weekly
+
+Stakeholder - Department managers
+Interest or Responsibility - Operational requirements and team performance
+Influence - Medium to High
+Engagement Method - Workshops, meetings, and dashboard reviews
+Communication Frequency - Fortnightly or monthly
+
+Stakeholder - Sales and purchasing teams
+Interest or Responsibility - Product, pricing, supplier and stock information
+Influence - High
+Engagement Method - Feedback sessions, system demonstrations and user testing
+Communication Frequency - At key development stages
+
+Stakeholder - Marketing and ecommerce teams
+Interest or Responsibility - Website data, SEO, product content and customer engagement
+Influence - Medium
+Engagement Method - Meetings, reports and shared data reviews
+Communication Frequency - Weekly or fortnightly
+
+Stakeholder - End-users
+Interest or Responsibility - Usability, accuracy and practical day-to-day requirements
+Influence - Medium
+Enagement Method - Surveys, interviews, demonstrations and user acceptance testing
+Communication Frequency - During design & testing
+
+Stakeholder - External suppliers or service providers
+Interest or Responsiblity - Data feeds, system support and technical requirements
+Influence - Medium
+Enagement Method - Emails, specification documents & project meetings
+Communication Frequency - As required
